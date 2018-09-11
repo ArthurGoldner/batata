@@ -1,0 +1,3 @@
+[submodule "Arthur"]
+	path = Arthur
+	url = https://github.com/ArthurGoldner/Arthur
